@@ -12,11 +12,13 @@ Using SwiftUI's Shape & Path to draw sticker「Taiwan Meme Cat」from Instagram�
 
 ## SwiftUI｜Overview
 
-1. Download this Repository
-2. Change Color
-- License：© Ricky Chuang
+1. [Download this Repository](https://github.com/5j54d93/SwiftUI-Taiwanmemecat#swiftuidownload-this-repository)
+2. [Change Color](https://github.com/5j54d93/SwiftUI-Taiwanmemecat#swiftuichange-color)
+- [License：© Ricky Chuang](https://github.com/5j54d93/SwiftUI-Taiwanmemecat#swiftuilicense-ricky-chuang)
 
 ## SwiftUI｜Download this Repository
+
+You sould download this repository first, and open it using Xcode.
 
 ## SwiftUI｜Change Color
 

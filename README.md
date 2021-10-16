@@ -26,15 +26,17 @@ If you would like to custom your own cat, you could follow the following step to
 
 ### Cat's Color
 
-Line [41](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/b7d78dddb661f06acf87f3ec3813f61210bc1ad7/TaiwanMemeCat/ContentView.swift#L41)、[53](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/b7d78dddb661f06acf87f3ec3813f61210bc1ad7/TaiwanMemeCat/ContentView.swift#L53)、[62](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/b7d78dddb661f06acf87f3ec3813f61210bc1ad7/TaiwanMemeCat/ContentView.swift#L62)、[74](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/b7d78dddb661f06acf87f3ec3813f61210bc1ad7/TaiwanMemeCat/ContentView.swift#L74)、[90](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/b7d78dddb661f06acf87f3ec3813f61210bc1ad7/TaiwanMemeCat/ContentView.swift#L90)、[102](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/b7d78dddb661f06acf87f3ec3813f61210bc1ad7/TaiwanMemeCat/ContentView.swift#L102) of [ContentView.swift](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/main/TaiwanMemeCat/ContentView.swift)：  
-change `.fill(Color(red: 220/256, green: 220/256, blue: 220/256))`  
-to `.fill(Color(red: 254/256, green: 250/256, blue: 231/256))`
+Line [41](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/b7d78dddb661f06acf87f3ec3813f61210bc1ad7/TaiwanMemeCat/ContentView.swift#L41)、[53](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/b7d78dddb661f06acf87f3ec3813f61210bc1ad7/TaiwanMemeCat/ContentView.swift#L53)、[62](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/b7d78dddb661f06acf87f3ec3813f61210bc1ad7/TaiwanMemeCat/ContentView.swift#L62)、[74](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/b7d78dddb661f06acf87f3ec3813f61210bc1ad7/TaiwanMemeCat/ContentView.swift#L74)、[90](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/b7d78dddb661f06acf87f3ec3813f61210bc1ad7/TaiwanMemeCat/ContentView.swift#L90)、[102](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/b7d78dddb661f06acf87f3ec3813f61210bc1ad7/TaiwanMemeCat/ContentView.swift#L102) of [ContentView.swift](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/main/TaiwanMemeCat/ContentView.swift)：
+
+> change `.fill(Color(red: 220/256, green: 220/256, blue: 220/256))`  
+> to `.fill(Color(red: 254/256, green: 250/256, blue: 231/256))`
 
 ### Cat's Spot & Whiskers
 
-Line [158](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/b7d78dddb661f06acf87f3ec3813f61210bc1ad7/TaiwanMemeCat/ContentView.swift#L158) & [163](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/b7d78dddb661f06acf87f3ec3813f61210bc1ad7/TaiwanMemeCat/ContentView.swift#L163) of [ContentView.swift](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/main/TaiwanMemeCat/ContentView.swift)：  
-change `.fill(Color(red: 148/256, green: 148/256, blue: 148/256))`  
-to `.fill(Color(red: 236/256, green: 210/256, blue: 141/256))`
+Line [158](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/b7d78dddb661f06acf87f3ec3813f61210bc1ad7/TaiwanMemeCat/ContentView.swift#L158) & [163](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/b7d78dddb661f06acf87f3ec3813f61210bc1ad7/TaiwanMemeCat/ContentView.swift#L163) of [ContentView.swift](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/main/TaiwanMemeCat/ContentView.swift)：
+
+> change `.fill(Color(red: 148/256, green: 148/256, blue: 148/256))`  
+> to `.fill(Color(red: 236/256, green: 210/256, blue: 141/256))`
 
 And you'll get a yellow cat！
 

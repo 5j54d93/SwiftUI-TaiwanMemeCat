@@ -7,18 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9C4C01F22719EB0500DE607E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C4C01F12719EB0500DE607E /* ContentView.swift */; };
 		9C60CD8D2719CE76006E6059 /* TaiwanMemeCatApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C60CD8C2719CE76006E6059 /* TaiwanMemeCatApp.swift */; };
-		9C60CD8F2719CE76006E6059 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C60CD8E2719CE76006E6059 /* ContentView.swift */; };
 		9C60CD912719CE78006E6059 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C60CD902719CE78006E6059 /* Assets.xcassets */; };
 		9C60CD942719CE78006E6059 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C60CD932719CE78006E6059 /* Preview Assets.xcassets */; };
+		9C77F2202719E9CE005B19A4 /* TaiwanMemeCatShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C77F21F2719E9CE005B19A4 /* TaiwanMemeCatShape.swift */; };
+		9CB2D7D2271A09E0005BBA0B /* TaiwanMemeCatWhiskers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CB2D7D1271A09E0005BBA0B /* TaiwanMemeCatWhiskers.swift */; };
+		9CB2D7D4271A09FB005BBA0B /* TaiwanMemeCatSpot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CB2D7D3271A09FB005BBA0B /* TaiwanMemeCatSpot.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9C4C01F12719EB0500DE607E /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9C60CD892719CE76006E6059 /* TaiwanMemeCat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TaiwanMemeCat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C60CD8C2719CE76006E6059 /* TaiwanMemeCatApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaiwanMemeCatApp.swift; sourceTree = "<group>"; };
-		9C60CD8E2719CE76006E6059 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9C60CD902719CE78006E6059 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9C60CD932719CE78006E6059 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9C77F21F2719E9CE005B19A4 /* TaiwanMemeCatShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaiwanMemeCatShape.swift; sourceTree = "<group>"; };
+		9CB2D7D1271A09E0005BBA0B /* TaiwanMemeCatWhiskers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaiwanMemeCatWhiskers.swift; sourceTree = "<group>"; };
+		9CB2D7D3271A09FB005BBA0B /* TaiwanMemeCatSpot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaiwanMemeCatSpot.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +57,11 @@
 		9C60CD8B2719CE76006E6059 /* TaiwanMemeCat */ = {
 			isa = PBXGroup;
 			children = (
+				9C4C01F12719EB0500DE607E /* ContentView.swift */,
 				9C60CD8C2719CE76006E6059 /* TaiwanMemeCatApp.swift */,
-				9C60CD8E2719CE76006E6059 /* ContentView.swift */,
+				9C77F21F2719E9CE005B19A4 /* TaiwanMemeCatShape.swift */,
+				9CB2D7D3271A09FB005BBA0B /* TaiwanMemeCatSpot.swift */,
+				9CB2D7D1271A09E0005BBA0B /* TaiwanMemeCatWhiskers.swift */,
 				9C60CD902719CE78006E6059 /* Assets.xcassets */,
 				9C60CD922719CE78006E6059 /* Preview Content */,
 			);
@@ -137,8 +146,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9C60CD8F2719CE76006E6059 /* ContentView.swift in Sources */,
+				9C77F2202719E9CE005B19A4 /* TaiwanMemeCatShape.swift in Sources */,
+				9CB2D7D4271A09FB005BBA0B /* TaiwanMemeCatSpot.swift in Sources */,
+				9CB2D7D2271A09E0005BBA0B /* TaiwanMemeCatWhiskers.swift in Sources */,
 				9C60CD8D2719CE76006E6059 /* TaiwanMemeCatApp.swift in Sources */,
+				9C4C01F22719EB0500DE607E /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

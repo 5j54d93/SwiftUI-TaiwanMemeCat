@@ -164,7 +164,6 @@ struct ContentView: View {
                     .offset(x: -64, y: 115)
             }
         }
-        .background(Color(red: 220/256, green: 220/256, blue: 220/256))
     }
 }
 

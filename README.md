@@ -6,4 +6,4 @@ Using SwiftUI's Shape & Path to draw sticker「Taiwan Meme Cat」from Instagram�
 
 ## SwiftUI｜License
 
-This package is licensed under MIT license. See [LICENSE]() for details.
+This package is licensed under MIT license. See [LICENSE](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/main/LICENSE) for details.

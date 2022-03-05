@@ -1,7 +1,5 @@
 # SwiftUI：Taiwan Meme Cat
 
-Using Shape & Path to Draw Taiwan Meme Cat
-
 ![GitHub](https://img.shields.io/github/license/5j54d93/SwiftUI-TaiwanMemeCat)
 [![GitHub stars](https://img.shields.io/github/stars/5j54d93/SwiftUI-TaiwanMemeCat)](https://github.com/5j54d93/SwiftUI-TaiwanMemeCat/stargazers)
 ![GitHub repo size](https://img.shields.io/github/repo-size/5j54d93/SwiftUI-TaiwanMemeCat)

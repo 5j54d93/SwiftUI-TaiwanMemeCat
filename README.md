@@ -2,9 +2,7 @@
 
 [![CI](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/actions/workflows/blank.yml/badge.svg)](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/actions/workflows/blank.yml)
 ![GitHub](https://img.shields.io/github/license/5j54d93/SwiftUI-Taiwanmemecat)
-![GitHub contributors](https://img.shields.io/github/contributors/5j54d93/SwiftUI-Taiwanmemecat)
 [![GitHub stars](https://img.shields.io/github/stars/5j54d93/SwiftUI-Taiwanmemecat)](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/stargazers)
-![GitHub watchers](https://img.shields.io/github/watchers/5j54d93/SwiftUI-Taiwanmemecat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/5j54d93/SwiftUI-Taiwanmemecat)
 
 Using SwiftUI's Shape & Path to draw sticker「Taiwan Meme Cat」from Instagram：[@taiwanmemecat](https://www.instagram.com/taiwanmemecat)！
@@ -41,6 +39,6 @@ Line [158](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/b7d78dddb661f06
 
 And you'll get a yellow cat！
 
-## SwiftUI｜License：© Ricky Chuang
+## License：MIT
 
-This package is licensed under MIT license. See [LICENSE](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/main/LICENSE) for details.
+This package is [MIT licensed](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/main/LICENSE).

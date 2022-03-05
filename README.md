@@ -9,12 +9,6 @@ Using SwiftUI's Shape & Path to draw sticker「Taiwan Meme Cat」from Instagram�
 
 <img src="https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/main/.github/assets/Taiwan%20Meme%20Cat：Origin.png" width='50%' height='100%'/><img src="https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/main/.github/assets/Taiwan%20Meme%20Cat：Special.png" width='50%' height='100%'/>
 
-## Overview
-
-1. [**How To Use**](https://github.com/5j54d93/SwiftUI-TaiwanMemeCat#how-to-use)
-2. [**Change Color**](https://github.com/5j54d93/SwiftUI-TaiwanMemeCat#change-color)
-3. [**License：MIT**](https://github.com/5j54d93/SwiftUI-TaiwanMemeCat#licensemit)
-
 ## How To Use
 
 1. Simply click on the green「Code」button on top right

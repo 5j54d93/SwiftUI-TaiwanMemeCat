@@ -2,23 +2,33 @@
 
 Using Shape & Path to Draw Taiwan Meme Cat
 
-![GitHub](https://img.shields.io/github/license/5j54d93/SwiftUI-Taiwanmemecat)
-[![GitHub stars](https://img.shields.io/github/stars/5j54d93/SwiftUI-Taiwanmemecat)](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/stargazers)
-![GitHub repo size](https://img.shields.io/github/repo-size/5j54d93/SwiftUI-Taiwanmemecat)
+![GitHub](https://img.shields.io/github/license/5j54d93/SwiftUI-TaiwanMemeCat)
+[![GitHub stars](https://img.shields.io/github/stars/5j54d93/SwiftUI-TaiwanMemeCat)](https://github.com/5j54d93/SwiftUI-TaiwanMemeCat/stargazers)
+![GitHub repo size](https://img.shields.io/github/repo-size/5j54d93/SwiftUI-TaiwanMemeCat)
 
 Using SwiftUI's Shape & Path to draw sticker「Taiwan Meme Cat」from Instagram：[@taiwanmemecat](https://www.instagram.com/taiwanmemecat)！
 
-<img src="https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/main/Photo/taiwanmemecat：Origin.png" width='50%' height='50%'/><img src="https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/main/Photo/taiwanmemecat：special.png" width='50%' height='50%'/>
+<img src="https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/main/.github/assets/Taiwan%20Meme%20Cat：Origin.png" width='50%' height='100%'/><img src="https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/main/.github/assets/Taiwan%20Meme%20Cat：Special.png" width='50%' height='100%'/>
 
 ## Overview
 
-1. [Download this Repository](https://github.com/5j54d93/SwiftUI-Taiwanmemecat#swiftuidownload-this-repository)
-2. [Change Color](https://github.com/5j54d93/SwiftUI-Taiwanmemecat#swiftuichange-color)
-- [License：© Ricky Chuang](https://github.com/5j54d93/SwiftUI-Taiwanmemecat#swiftuilicense-ricky-chuang)
+1. [**How To Use**]()
+2. [**Change Color**]()
+3. [**License：MIT**]()
 
-## Download this Repository
+## How To Use
 
-You sould download this repository first, and open it using Xcode.
+1. Simply click on the green「Code」button on top right
+2. click「Open with Xcode」
+3. Having fun to explore this Google Blogger iOS App！
+
+if nothing happen：
+
+- Download this repository via `git clone`
+
+```shell
+git clone https://github.com/5j54d93/SwiftUI-TaiwanMemeCat --depth
+```
 
 ## Change Color
 

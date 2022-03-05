@@ -1,6 +1,7 @@
-# SwiftUI：Using Shape & Path to Draw Taiwan Meme Cat
+# SwiftUI：Taiwan Meme Cat
 
-[![CI](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/actions/workflows/blank.yml/badge.svg)](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/actions/workflows/blank.yml)
+Using Shape & Path to Draw Taiwan Meme Cat
+
 ![GitHub](https://img.shields.io/github/license/5j54d93/SwiftUI-Taiwanmemecat)
 [![GitHub stars](https://img.shields.io/github/stars/5j54d93/SwiftUI-Taiwanmemecat)](https://github.com/5j54d93/SwiftUI-Taiwanmemecat/stargazers)
 ![GitHub repo size](https://img.shields.io/github/repo-size/5j54d93/SwiftUI-Taiwanmemecat)
@@ -9,17 +10,17 @@ Using SwiftUI's Shape & Path to draw sticker「Taiwan Meme Cat」from Instagram�
 
 <img src="https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/main/Photo/taiwanmemecat：Origin.png" width='50%' height='50%'/><img src="https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/main/Photo/taiwanmemecat：special.png" width='50%' height='50%'/>
 
-## SwiftUI｜Overview
+## Overview
 
 1. [Download this Repository](https://github.com/5j54d93/SwiftUI-Taiwanmemecat#swiftuidownload-this-repository)
 2. [Change Color](https://github.com/5j54d93/SwiftUI-Taiwanmemecat#swiftuichange-color)
 - [License：© Ricky Chuang](https://github.com/5j54d93/SwiftUI-Taiwanmemecat#swiftuilicense-ricky-chuang)
 
-## SwiftUI｜Download this Repository
+## Download this Repository
 
 You sould download this repository first, and open it using Xcode.
 
-## SwiftUI｜Change Color
+## Change Color
 
 If you would like to custom your own cat, you could follow the following step to change color！
 
